@@ -65,3 +65,41 @@ gantt
     Redux Toolkit            :2024-03, 2024-05
     section Testing
     Jest + Testing Library   :2024-04, 2024-06
+
+---
+
+## 🤝 Collaboration Opportunities
+
+- **Open-source UI components**  
+- **Frontend architecture consulting**  
+- **JavaScript mentorship programs**  
+- **Tech content creation**  
+
+---
+
+## 📬 Contact Channels
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedbukhari03249334041@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🏋️‍♂️ Fitness enthusiast & gym rat  
+- 🚗 Car aficionado and tech geek  
+- 🎮 Casual gamer and esports fan  
+- ✈️ Travel bug with 12 countries visited  
+
+---
+
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=50)
+
+</div>
