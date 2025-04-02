@@ -1,77 +1,67 @@
 # Syed Bukhari
-### Frontend Developer | UI Specialist | JavaScript Engineer
+### Frontend Architect | UI Specialist | JavaScript Engineer
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=SyedBukhari2013646&label=Profile+Views&color=blueviolet&style=flat-square)](https://github.com/SyedBukhari2013646)
-[![Repositories](https://badges.pufler.dev/repos/SyedBukhari2013646?color=blue&style=flat-square)](https://github.com/SyedBukhari2013646?tab=repositories)
+[![Visitors](https://komarev.com/ghpvc/?username=SyedBukhari2013646&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/SyedBukhari2013646)
+[![Repos](https://badges.pufler.dev/repos/SyedBukhari2013646?color=blue&style=flat-square)](https://github.com/SyedBukhari2013646?tab=repositories)
+[![Years](https://badges.pufler.dev/years/SyedBukhari2013646?color=blue&style=flat-square)](https://github.com/SyedBukhari2013646)
   
 </div>
 
 ---
 
-## 🛠️ Technical Skills
-
+## 🛠️ Technical Arsenal
 <div align="center">
-  
-| **Frontend** | **Backend** | **Tools** |
-|--------------|------------|----------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+
+| **Frontend** | **Backend** | **Tools** | **Learning** |
+|-------------|------------|----------|-------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |
 
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedBukhari2013646&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedBukhari2013646&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedBukhari2013646&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedBukhari2013646&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" width="48%">
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- React.js (Advanced Hooks & Context API)
-- TypeScript Fundamentals
-- Next.js Optimization Techniques
-- GraphQL Implementation
+<div align="center">
+  
+| **Overview** | **Streak** | **Languages** |
+|--------------|-----------|--------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SyedBukhari2013646&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedBukhari2013646&theme=radical&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedBukhari2013646&layout=compact&theme=radical&hide_border=true) |
+  
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=SyedBukhari2013646&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15)
 
-1. **E-commerce Dashboard** - React + Firebase
-2. **UI Component Library** - Pure CSS + JavaScript
-3. **Portfolio Website** - Three.js Animations
-4. **CSS Framework** - SASS + BEM Methodology
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:syedbukhari03249334041@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</p>
+</div>
 
 ---
 
-## ⚡ Fun Facts
+## 🚀 Current Projects
+- **Advanced UI Component Library** (React + TypeScript)  
+- **E-commerce Dashboard** (Next.js + Firebase)  
+- **CSS Framework** (SASS + BEM Methodology)  
+- **Portfolio v3** (Three.js + GSAP Animations)  
 
-- 🏋️ Gym Enthusiast
-- 🚗 Car Lover
-- 🌍 Traveler
-- 🎮 Casual Gamer
+---
+
+## 🌱 Learning Path
+```mermaid
+gantt
+    title 2024 Learning Roadmap
+    dateFormat  YYYY-MM
+    section Frontend
+    Advanced React Patterns    :active, 2024-01, 2024-03
+    Next.js Optimization      :2024-02, 2024-04
+    section State Management
+    Redux Toolkit            :2024-03, 2024-05
+    section Testing
+    Jest + Testing Library   :2024-04, 2024-06
