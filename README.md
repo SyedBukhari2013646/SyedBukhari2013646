@@ -68,7 +68,7 @@ gantt
 
 ---
 
-## 🤝 Collaboration Opportunities
+ ## 🤝 Collaboration Opportunities
 
 - **Open-source UI components**  
 - **Frontend architecture consulting**  
