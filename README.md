@@ -65,7 +65,6 @@ gantt
     Redux Toolkit            :2024-03, 2024-05
     section Testing
     Jest + Testing Library   :2024-04, 2024-06
-
 ## 🤝 Collaboration Opportunities
 
 - **Open-source UI components**  
