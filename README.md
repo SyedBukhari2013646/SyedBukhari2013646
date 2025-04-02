@@ -30,7 +30,8 @@
   
 | **Overview** | **Streak** | **Languages** |
 |--------------|-----------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SyedBukhari2013646&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedBukhari2013646&theme=radical&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedBukhari2013646&layout=compact&theme=radical&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SyedBukhari2013646&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=SyedBukhari2013646&theme=radical&hide_border=true)
+ | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedBukhari2013646&layout=compact&theme=radical&hide_border=true) |
   
 </div>
 
