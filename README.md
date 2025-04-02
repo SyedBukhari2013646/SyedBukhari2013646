@@ -1,94 +1,77 @@
-Syed Bukhari
-Frontend Architect | UI Specialist | JavaScript Engineer
+# Syed Bukhari
+### Frontend Developer | UI Specialist | JavaScript Engineer
+
 <div align="center">
-Visitors
-Repos
-Years
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=SyedBukhari2013646&label=Profile+Views&color=blueviolet&style=flat-square)](https://github.com/SyedBukhari2013646)
+[![Repositories](https://badges.pufler.dev/repos/SyedBukhari2013646?color=blue&style=flat-square)](https://github.com/SyedBukhari2013646?tab=repositories)
+  
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+  
+| **Frontend** | **Backend** | **Tools** |
+|--------------|------------|----------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
-🛠️ Technical Arsenal
-<div align="center">
-Frontend	Backend	Tools	Learning
-HTML5	Node.js	Git	React
-CSS3	Express	VS Code	TypeScript
-SASS	MongoDB	Figma	Next.js
-JavaScript	Firebase	Netlify	GraphQL
-</div>
-📊 GitHub Analytics
-<div align="center">
-Overview	Streak	Languages
-Stats	Streak	Languages
-</div>
-🏆 GitHub Trophies
-<div align="center">
-Trophies
 
-</div>
-🚀 Current Projects
-Advanced UI Component Library (React + TypeScript)
+---
 
-E-commerce Dashboard (Next.js + Firebase)
+## 📊 GitHub Analytics
 
-CSS Framework (SASS + BEM Methodology)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedBukhari2013646&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedBukhari2013646&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedBukhari2013646&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedBukhari2013646&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" width="48%">
+</p>
 
-Portfolio v3 (Three.js + GSAP Animations)
+---
 
-🌱 Learning Path
-mermaid
-Copy
-gantt
-    title 2024 Learning Roadmap
-    dateFormat  YYYY-MM
-    section Frontend
-    Advanced React Patterns    :active, 2024-01, 2024-03
-    Next.js Optimization      :2024-02, 2024-04
-    section State Management
-    Redux Toolkit            :2024-03, 2024-05
-    section Testing
-    Jest + Testing Library   :2024-04, 2024-06
-🤝 Collaboration Opportunities
-Open-source UI components
+## 🌱 Currently Learning
 
-Frontend architecture consulting
+- React.js (Advanced Hooks & Context API)
+- TypeScript Fundamentals
+- Next.js Optimization Techniques
+- GraphQL Implementation
 
-JavaScript mentorship programs
+---
 
-Tech content creation
+## 🚀 Featured Projects
 
-📬 Contact Channels
-<div align="center">
-Email
-LinkedIn
-Twitter
-Portfolio
+1. **E-commerce Dashboard** - React + Firebase
+2. **UI Component Library** - Pure CSS + JavaScript
+3. **Portfolio Website** - Three.js Animations
+4. **CSS Framework** - SASS + BEM Methodology
 
-</div>
-⚡ Fun Facts
-🏋️‍♂️ Fitness enthusiast & gym rat
+---
 
-🚗 Car aficionado and tech geek
+## 🤝 Let's Connect
 
-🎮 Casual gamer and esports fan
+<p align="center">
+  <a href="mailto:syedbukhari03249334041@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
-✈️ Travel bug with 12 countries visited
+---
 
-<div align="center">
-Footer
+## ⚡ Fun Facts
 
-</div> ```
-Key Features of This Professional README:
-Dynamic Badge System - Auto-updating skill badges
-
-Advanced Analytics - 3-panel GitHub stats dashboard
-
-Interactive Elements - MermaidJS roadmap, expandable sections
-
-Professional Layout - Organized in clear, scannable sections
-
-Visual Hierarchy - Proper spacing and emphasis
-
-Contact CTAs - Prominent connection points
-
-Mobile Responsive - Adapts to all screen sizes
-
-Personal Branding - Unique personality elements
+- 🏋️ Gym Enthusiast
+- 🚗 Car Lover
+- 🌍 Traveler
+- 🎮 Casual Gamer
